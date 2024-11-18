@@ -25,3 +25,24 @@ I enjoy stepping out of the cave of "one-framework-for-everything" and exploring
 </table>
 
 I have also worked with Python, Rust, Ruby on Rails, Arduino, Lua while working with other developers.
+
+### Projects
+Few of the projects I have worked / working on.
+<table>
+  <tr>
+    <td>
+      <h4 href="www.google.com">Subtle</h4>
+      <img title="Subtle Project Image" src="https://github.com/nandesh-dev/nandesh-dev/blob/main/assets/ui/subtle.png?raw=true">
+    </td>
+    <td>
+      <h4>Alexa WOL</h4>
+      <img title="Alexa wake on lan Project Image" src="https://github.com/nandesh-dev/nandesh-dev/blob/main/assets/ui/alexa_wol.png?raw=true">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Catalyst</h4>
+      <img title="Catayst Project Image" src="https://github.com/nandesh-dev/nandesh-dev/blob/main/assets/ui/catalyst.png?raw=true">
+    </td>
+  </tr>
+</table>
