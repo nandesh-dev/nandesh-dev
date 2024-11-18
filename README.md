@@ -44,5 +44,9 @@ Few of the projects I have worked / working on.
       <h4>Catalyst</h4>
       <img title="Catayst Project Image" src="https://github.com/nandesh-dev/nandesh-dev/blob/main/assets/ui/catalyst.png?raw=true">
     </td>
+    <td>
+      <h4>HueHive</h4>
+      <img title="HueHive Project Image" src="https://github.com/nandesh-dev/nandesh-dev/blob/main/assets/ui/huehive.png?raw=true">
+    </td>
   </tr>
 </table>
